@@ -5,6 +5,7 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
+import agar.sarthak.validation.CourseCode;
 
 public class Customer 
 {
@@ -22,6 +23,17 @@ public class Customer
 	@Pattern(regexp = "^[a-zA-Z0-9]{5}", message="Only 5 chars/digits")
 	private String postalCode;
 	
+	@CourseCode(value="TOPS", message="must start with TOPS")
+	private String courseCode;
+	
+	public String getCourseCode() 
+	{
+		return courseCode;
+	}
+	public void setCourseCode(String courseCode) 
+	{
+		this.courseCode = courseCode;
+	}
 	public String getPostalCode() 
 	{
 		return postalCode;
