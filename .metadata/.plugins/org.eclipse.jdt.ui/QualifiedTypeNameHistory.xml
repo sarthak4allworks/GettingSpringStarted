@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="agar.sarthak.BaseballCoach"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="org.w3c.dom.css.CSSFontFaceRule"/>
@@ -39,4 +38,13 @@
     <fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Max"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
+    <fullyQualifiedTypeName name="javax.validation.Constraint"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="javax.validation.Payload"/>
+    <fullyQualifiedTypeName name="agar.sarthak.validation.CourseCode"/>
+    <fullyQualifiedTypeName name="javax.validation.ConstraintValidator"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
