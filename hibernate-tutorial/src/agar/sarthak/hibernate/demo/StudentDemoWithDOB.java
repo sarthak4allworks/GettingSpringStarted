@@ -28,7 +28,8 @@ public class StudentDemoWithDOB
  
             Date theDateOfBirth = DateUtils.parseDate(theDateOfBirthStr);
  
-            Student tempStudent = new Student("Pauly", "Doe", "paul@luv.com", theDateOfBirth);
+            Student tempStudent = new Student("Pauly", "Doe", "paul@luv.com");
+            tempStudent.setDateOfBirth(theDateOfBirth);
  
             // start transaction
             session.beginTransaction();
