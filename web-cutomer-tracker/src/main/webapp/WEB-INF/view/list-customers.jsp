@@ -14,8 +14,16 @@
 		<div id="header">
 			<h2>CRM - Customer Relationship Manager</h2>
 		</div>
+		
 		<div id="container">
 			<div id="content">
+			
+			<!-- Put new button add customer -->
+			<input type="button" value="Add Customer"
+				onclick="window.location.href='showFormForAdd';return false;"
+				class="add-button"
+				/>
+			
 				<!-- Add out html table here -->
 				<table>
 					<tr>
