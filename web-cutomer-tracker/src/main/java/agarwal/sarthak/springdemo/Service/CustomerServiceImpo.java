@@ -30,4 +30,11 @@ public class CustomerServiceImpo implements CustomerService
 		customerDAO.saveCustomer(theCustomer);
 	}
 
+	@Override
+	@Transactional
+	public Customer getCustomer(int theId) 
+	{
+		return customerDAO.getCustomr(theId);
+	}
+
 }
