@@ -37,4 +37,11 @@ public class CustomerServiceImpo implements CustomerService
 		return customerDAO.getCustomr(theId);
 	}
 
+	@Override
+	@Transactional
+	public void deleteCustomer(int theId) 
+	{
+		customerDAO.deleteCustomer(theId);
+	}
+
 }
