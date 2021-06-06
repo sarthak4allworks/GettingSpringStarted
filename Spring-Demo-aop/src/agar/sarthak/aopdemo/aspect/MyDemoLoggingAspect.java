@@ -12,9 +12,13 @@ public class MyDemoLoggingAspect
 	
 	// let's start with @Before advice
 	
-	@Before("execution(public void addAccount())")
+	// below are the pointcut expressions
+	
+//	@Before("execution(public void agar.sarthak.aopdemo.dao.AccountDAO.addAccount())")
+//	@Before("execution(public void add*())")
+	@Before("execution(* add*())")
 	public void beforeAddAccountAdvice()
 	{
-		System.out.println("\n====>>>> Executing @Before Advice on addAccount()");
+		System.out.println("\n====>>>> Executing @Before Advice on method()");
 	}
 }
