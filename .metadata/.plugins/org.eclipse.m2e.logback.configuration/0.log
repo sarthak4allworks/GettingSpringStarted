@@ -1696,3 +1696,185 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2021-06-19 00:06:08,622 [Worker-67: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-security-demo-O2-basic-security
 2021-06-19 00:06:08,622 [Worker-67: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-security-demo-O2-basic-security
 2021-06-19 00:06:08,625 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:32:55,529 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-20 12:37:00,100 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 12:37:00,101 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\mycoolwebapp\src\main\resources
+2021-06-20 12:37:00,112 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 12:37:00,112 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\mycoolwebapp\src\test\resources
+2021-06-20 12:37:12,146 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:37:12,148 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O2-basic-security\src\main\resources
+2021-06-20 12:37:12,151 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:37:12,152 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O2-basic-security\src\test\resources
+2021-06-20 12:37:20,570 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:37:20,571 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\spring-hibernate-video-course\solution-code-spring-security-demo-01-base-app\src\main\resources
+2021-06-20 12:37:20,573 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:37:20,575 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\spring-hibernate-video-course\solution-code-spring-security-demo-01-base-app\src\test\resources
+2021-06-20 12:58:23,969 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code:spring-security-demo:1.0 @ D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\pom.xml.
+2021-06-20 12:58:25,534 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:25,536 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:58:25,538 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:25,539 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:58:26,561 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:26,562 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:58:26,566 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:26,568 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:58:30,818 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:30,819 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:58:30,821 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:30,823 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:58:57,146 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:57,148 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:58:57,150 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:58:57,152 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:59:29,775 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:29,780 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:59:29,783 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:29,784 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:59:31,994 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:31,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:59:32,000 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:32,001 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 12:59:35,462 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:35,464 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 12:59:35,466 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 12:59:35,467 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:01:07,860 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:01:07,862 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:01:07,864 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:01:07,865 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:01:11,506 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:01:11,508 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:01:11,510 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:01:11,510 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:02:07,553 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:07,554 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:02:07,557 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:07,558 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:02:19,516 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:19,517 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:02:19,518 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:19,520 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:02:32,521 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:32,522 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:02:32,524 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:32,525 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:02:38,396 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:38,397 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:02:38,399 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:38,400 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:02:56,834 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:56,836 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:02:56,842 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:02:56,843 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:03:02,689 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:02,690 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:03:02,692 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:02,693 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:03:04,815 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:04,816 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:03:04,819 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:04,821 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:03:17,185 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:17,187 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:03:17,189 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:03:17,190 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:04:13,460 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:04:13,462 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:04:13,464 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:04:13,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:04:20,132 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:04:20,133 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:04:20,137 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:04:20,137 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:05:18,971 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:18,973 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:05:18,974 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:18,976 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:05:24,805 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:24,807 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:05:24,809 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:24,810 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:05:41,288 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:41,289 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:05:41,291 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:05:41,291 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:06:00,203 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:06:00,205 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:06:00,206 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:06:00,207 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:06:14,978 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:06:14,980 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:06:14,981 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:06:14,983 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:01,309 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:01,310 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:01,312 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:01,313 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:02,421 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:02,423 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:02,425 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:02,426 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:03,529 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:03,530 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:03,532 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:03,533 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:09,481 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:09,482 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:09,484 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:09,485 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:11,538 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:11,539 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:11,541 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:11,542 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:12,557 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:12,558 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:12,560 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:12,561 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:42,115 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:42,117 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:42,118 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:42,119 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:50,059 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:50,061 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:50,062 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:50,063 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:07:56,312 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:56,315 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:07:56,317 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:07:56,318 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:08:10,171 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:10,172 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:08:10,175 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:10,176 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:08:43,406 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:43,407 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:08:43,408 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:43,409 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:08:46,771 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:46,773 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:08:46,777 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:08:46,778 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:15:25,803 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:15:25,806 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:15:25,810 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:15:25,812 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:15:51,738 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:15:51,739 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:15:51,741 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:15:51,742 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:16:33,655 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:33,656 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:16:33,658 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:33,659 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:16:37,134 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:37,137 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:16:37,140 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:37,142 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:16:41,736 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:41,737 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:16:41,739 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:16:41,740 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
+2021-06-20 13:17:05,041 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:17:05,046 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\main\resources
+2021-06-20 13:17:05,048 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-20 13:17:05,049 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Samsung\Udemy\Spring\spring-security-demo-O3-custom-login-form\src\test\resources
