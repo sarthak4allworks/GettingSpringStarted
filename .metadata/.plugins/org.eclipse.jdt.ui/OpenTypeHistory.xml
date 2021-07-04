@@ -6,4 +6,8 @@
     <typeInfo handle="=Spring-Demo-Annotations/src&lt;agar.sarthak{Coach.java[Coach" modifiers="513" timestamp="1618162893340"/>
     <typeInfo handle="=web-cutomer-tracker/src\/main\/java&lt;agarwal.sarthak.springdemo.Service{CustomerService.java[CustomerService" modifiers="513" timestamp="1622396185271"/>
     <typeInfo handle="=web-cutomer-tracker/D:\/Samsung\/Udemy\/Spring\/web-cutomer-tracker\/src\/main\/webapp\/WEB-INF\/lib\/hibernate-core-5.4.31.Final.jar&lt;org.hibernate(CustomEntityDirtinessStrategy.class[CustomEntityDirtinessStrategy" modifiers="1537" timestamp="1622309773130"/>
+    <typeInfo handle="=cruddemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;agarwal.sarthak.springboot.cruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1625196912599"/>
+    <typeInfo handle="=cruddemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;agarwal.sarthak.springboot.cruddemo.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1625245480501"/>
+    <typeInfo handle="=22-jpa-crud-demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;agarwal.sarthak.springboot.cruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1625196912599"/>
+    <typeInfo handle="=23-spring-data-jpa-crud-demo/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.5.2\/spring-data-jpa-2.5.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.5.2=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1625194080379"/>
 </typeInfoHistroy>
